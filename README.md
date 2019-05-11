@@ -62,5 +62,5 @@ Role:
 
 ## Front-End Member
 * Rakhmatnw
-* Winata Arafat
-* **Hendri Agustino**
+* **Winata Arafad (Badai)**
+* Hendri Agustino
