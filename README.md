@@ -30,7 +30,7 @@ Go to [https://nodejs.org/en/download/](https://nodejs.org/en/download/) and fol
 
 ## INSTALL
 
-`$ git clone git@github.com:hendriagustino/sikawanapp.git` <br>
+`$ git clone git@github.com:badaibeibeh/sikawan-app.git` <br>
 `$ cd sikawanapp` <br>
 `$ npm install`
 
